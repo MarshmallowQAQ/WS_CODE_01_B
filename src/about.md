@@ -1,22 +1,15 @@
 ---
 layout: page
-title: 关于
+title: About
 slug: about
-date: 2017/06/28 17:26:00
+date: 2020/01/07 23:26:10
 status: publish
-author: AlanDecode
-categories: 
-  - Maverick
-  - Dev
+author: MarshmallowQAQ
 tags: 
-  - theme
+  - aboutme
 ---
 
-这里是我的个人博客，通过 GitHub 管理与构建。
+What should I write?
 
 
-## Contact
-
-Email: hi#imalan.cn (replace # with @)
-
-Telegram：[AlanDecode](https://t.me/alandecode)
+This page may be updated after 100,000 years
