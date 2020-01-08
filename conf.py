@@ -28,7 +28,13 @@ author_homepage = ""
 description = "Uh... what should I write?"
 key_words = []
 language = 'en-US'
-external_links = []
+external_links = [
+{
+        "name": "MarshmallowQAQ",
+        "url": "https://marsqwq.top",
+        "brief": "MarshmallowQAQ's Website"
+    }
+]
 nav = [
     {
         "name": "Home",
