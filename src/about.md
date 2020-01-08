@@ -12,4 +12,4 @@ tags:
 What should I write?
 
 
-This page may be updated after 100,000 years
+This page may be updated after 100,000 years.
