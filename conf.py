@@ -28,18 +28,7 @@ author_homepage = ""
 description = "Uh... what should I write?"
 key_words = []
 language = 'en-US'
-external_links = [
-    {
-        "name": "Maverick",
-        "url": "https://github.com/AlanDecode/Maverick",
-        "brief": "Please enter content."
-    },
-    {
-        "name": "MarshmallowQAQ",
-        "url": "https://marsqwq.top",
-        "brief": "MarshmallowQAQ's Website."
-    }
-]
+external_links = []
 nav = [
     {
         "name": "Home",
