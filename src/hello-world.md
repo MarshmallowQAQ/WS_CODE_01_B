@@ -7,6 +7,7 @@ status: publish
 author: MarshmallowQAQ
 categories: 
   - Default
+excerpt: 从Typecho搬到GitHub后发布的第一篇文章。
 ---
 
 从Typecho搬到GitHub后发布的第一篇文章。
