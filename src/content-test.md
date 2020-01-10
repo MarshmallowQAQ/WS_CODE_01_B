@@ -1,5 +1,15 @@
+---
+layout: post
+title: 内容测试
+slug: content-test
+status: publish
+author: MarshmallowQAQ
+categories: 
+  - Default
+excerpt: 内容测试。
+---
 Code
-'''html
+```html
 <section id="ga-post_list" class="ga-section" data-title="Posts">
     <ul>
         
@@ -20,4 +30,4 @@ Code
         
     </ul>
 </section>
-'''
+```
