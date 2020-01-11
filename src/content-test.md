@@ -2,7 +2,7 @@
 layout: post
 title: 内容测试
 slug: content-test
-date: YYYY-MM-DD HH:MM GMT
+date: 0000-01-01 00:00
 status: publish
 author: MarshmallowQAQ
 categories: 
