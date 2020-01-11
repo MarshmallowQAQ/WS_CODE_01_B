@@ -2,13 +2,14 @@
 layout: post
 title: 内容测试
 slug: content-test
+date: YYYY-MM-DD HH:MM GMT
 status: publish
 author: MarshmallowQAQ
 categories: 
   - Default
-excerpt: 内容测试。
+excerpt: 博客内容测试。
 ---
-Code
+Code 代码测试
 ```html
 <section id="ga-post_list" class="ga-section" data-title="Posts">
     <ul>
